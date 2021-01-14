@@ -1,0 +1,26 @@
+.current-song,
+.song-details,
+.songs-list {
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.song-details {
+  width: 35%;
+}
+
+.songs-list {
+  width: 63%;
+}
+
+html,
+body {
+  background-color: #e1e1e1;
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
